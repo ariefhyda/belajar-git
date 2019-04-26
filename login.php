@@ -6,7 +6,6 @@
   </head>
   <body>
 
-    <p>halaman login</p>
-
+algoritma di master
   </body>
 </html>
