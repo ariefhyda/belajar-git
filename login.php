@@ -6,7 +6,7 @@
   </head>
   <body>
 
-    <p>halaman login</p>
+    <p>algoritma login</p>
 
   </body>
 </html>
